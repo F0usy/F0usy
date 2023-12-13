@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @F0usy I´m student of CS on University
 - 👀 I’m interested in webdevelopment and programing 
 - 🌱 I’m currently learning C# 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 F0usy/F0usy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
